@@ -7,7 +7,7 @@ from discord.ext import commands
 bot = commands.Bot(command_prefix="!")
 
 #tokenの設定
-token = "OTQ4ODY5NjkwNjU3MjE0NTM0.GyEjJ1.JSQ9jshZShXnyAwjdmonEZqW9Jb9UECsmHttF0"
+token = "xxx"
 
 @bot.event
 async def on_ready():
